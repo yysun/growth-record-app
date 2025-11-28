@@ -1,11 +1,25 @@
-<div align="center">
+# Growth Record App (成长档案)
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A mobile-first React application for tracking student growth portfolios, including subject performance, daily habits, and teacher feedback.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Dashboard**: Overview of growth areas (Subjects, Daily Habits, Activities, Reviews).
+- **Subject Tracking**: Detailed views for specific subjects (Structure, Card, and Timeline views).
+- **Task Details**: View specific assignments, exams, and feedback.
+- **Teacher Feedback**: Interactive feedback screens with audio visualization.
+- **Responsive Design**: Mobile-first UI using Tailwind CSS.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
 
-</div>
+- React 19
+- TypeScript
+- Tailwind CSS
+- Lucide React (Icons)
+- React Router DOM
+
+## Setup
+
+This project uses a lightweight setup with ES Modules and CDNs.
+
+1. Open `index.html` in a modern browser.
